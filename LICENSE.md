@@ -1,10 +1,10 @@
-自定义PIA插件 | DNS泄露保护 + 流媒体优化 是最佳 PIA 插件，集成 DNS泄露保护 和 流媒体优化。安全且优化。
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/private-internet-a-eg71/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 

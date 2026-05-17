@@ -1,10 +1,10 @@
-Personalizado PIA Plugin | proteção contra vazamento de DNS + otimização para streaming é o melhor PIA plugin com proteção contra vazamento de DNS e otimização para streaming.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/private-internet-a-eg71/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
